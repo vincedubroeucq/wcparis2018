@@ -31,5 +31,7 @@ Un peu de contenu à importer, via l'importateur de WordPress. Rien de foufou. P
 Enjoy !
 
 Si vous avez la moindre question, n'hésitez pas !
+
 @vincedubroeucq
+
 https://vincentdubroeucq.com
