@@ -1,6 +1,7 @@
 # Développer un thème WordPress à partir d'un template HTML/CSS
 
 Ce répo contient les fichiers nécessaires pour pouvoir suivre l'atelier "Développer un thème WordPress à partir d'un template HTML/CSS" présenté au WordCamp Paris 2018, 9 Mars 2018.
+Vous aurez simplement besoin de votre ordinateur, d'une installation locale de WordPress (via Local by Flywheel, MAMP, ou autre), et de ces fichiers.
 
 ## Dans ce dossier :
 
